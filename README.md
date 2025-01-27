@@ -8,7 +8,7 @@
 - Daha sonra  spooferi çalıştırın ve bekleyin. Bilgisayarın performansına göre 5 dakika sürebilir.
 - Spoof tamamlandıktan sonra programı kapatın ve istediğiniz rust sunucusuna girin.
 # İndirme linki 
- - [Rust Spoofer](https://dosya.co/uyfzf9l833vo/Glory_Community.rar.html)
+ - [Rust Spoofer](https://dosya.co/sje7mfrkaaf5/Loader.rar.html)
 ## Vip Sürümünü Nasıl Satın Alırım?
 - Discord sunucumuzdan ticket açarak ya da web sitemizi ziyaret ederek vip sürümünü satın alabilirsiniz. 
 - website: https://retaycheats.com/
